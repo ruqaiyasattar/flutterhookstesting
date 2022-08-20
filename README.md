@@ -1,16 +1,28 @@
 # testinghook
 
-A new Flutter project.
+A Flutter Hook project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter hooks application.
 
-A few resources to get you started if this is your first Flutter project:
+Flutter hooks as an alternative to stateful widget, Its is a community package. 
+With stateful widgets, we saw that we needed two classes, one for the widget and the other for the state. We needed to define the mutable properties of the widget in the state class and then use setState to mutate them and trigger a rebuild.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Hooks give us the means:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Reduce redundant and cumbersome boilerplate code such as that in a stateful widget
+Improve on our code usability as we can create and reuse hooks without any issues.
+
+![flutter hooks](https://user-images.githubusercontent.com/12498051/185743128-a8a12630-9d07-425f-ab18-3e85e125e519.gif)
+useScrollController
+
+
+![flutter hooks1](https://user-images.githubusercontent.com/12498051/185743162-62ba9379-93c6-40a3-b1c4-edb15db15ec1.gif)
+useStreamController
+
+![flutter hooks1](https://user-images.githubusercontent.com/12498051/185743190-cae0196e-6c38-471e-a072-745b0c48b228.gif)
+Reducer demo
+
+![useAppLifeCycle](https://user-images.githubusercontent.com/12498051/185743456-25486c16-0a8c-4bf8-8a13-7ded34d9d969.gif)
+useAppLifeCycle
