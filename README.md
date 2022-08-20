@@ -21,7 +21,7 @@ useScrollController
 ![flutter hooks1](https://user-images.githubusercontent.com/12498051/185743162-62ba9379-93c6-40a3-b1c4-edb15db15ec1.gif)
 useStreamController
 
-![flutter hooks1](https://user-images.githubusercontent.com/12498051/185743190-cae0196e-6c38-471e-a072-745b0c48b228.gif)
+![flutter hooks2](https://user-images.githubusercontent.com/12498051/185743868-d37cdbb5-294a-424c-95d3-0e810785c216.gif)
 Reducer demo
 
 ![useAppLifeCycle](https://user-images.githubusercontent.com/12498051/185743456-25486c16-0a8c-4bf8-8a13-7ded34d9d969.gif)
